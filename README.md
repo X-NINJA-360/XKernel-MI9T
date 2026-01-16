@@ -1,1 +1,2 @@
 NOTE: Use [this](https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/android13-release/clang-r450784d.tar.gz) clang version to compile
+Also, main branch is just KernelSU Next version without SusFS. Switch branch if you want SusFS
